@@ -1,0 +1,12 @@
+.rettangolo{
+    background-color: cornflowerblue;
+    width: 1710px;
+    height: 180px;
+    background-image: url(./img/pattern.png);
+    
+}
+#image-logo{
+    width: 300px;
+    height: auto;
+    margin-top: 110px;
+}
