@@ -29,3 +29,13 @@
 #description1, #list{
     font-weight: bold;
 }
+#table1{
+    width: 90%;
+    border: 2px;
+   
+    
+}
+thead{
+    background-color: cornflowerblue;
+   
+}
