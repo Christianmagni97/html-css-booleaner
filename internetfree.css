@@ -14,7 +14,7 @@
     font-size: 50px;
     margin-right: 20%;
 }
-#subtitle,#date{
+#subtitle,#date, #Interest{
     size: 5px;
     color: grey;
 }
@@ -46,4 +46,5 @@ thead{
 #colonna1, #colonna3{
     background-color: lightskyblue;
 }
+
 
