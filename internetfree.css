@@ -6,7 +6,20 @@
     
 }
 #image-logo{
-    width: 300px;
+    width: 250px;
     height: auto;
     margin-top: 110px;
+}
+#Title-page{
+    font-size: 50px;
+    margin-right: 20%;
+}
+#subtitle,#date{
+    size: 5px;
+    color: grey;
+}
+#author{
+    color: blue;
+    text-decoration: underline;
+    
 }
